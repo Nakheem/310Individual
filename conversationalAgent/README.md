@@ -40,3 +40,18 @@
 **The agent now reads from multiple response data files:**
 * the agent now will check for responses related to ADHD from a file specific for that topic.
 
+**New features added for indvidual project**
+
+**Currently working**
+
+**Wikipedia integration to add wikipedia snippets and links to Conversations**
+*If the user as what something is and the program doesn't recognize it search wikipedia*
+*Reads out wiki article snippets and proveds links*
+
+
+**Currently not working  but wanted to implement**
+
+**Google Transalate api**
+
+*Was supposed to detect language entered into chat bot and switch the default language*
+*Couldnt get it work kept getting sever errors*
